@@ -4,7 +4,7 @@
   
 - This file contains 1 or 2 practises for each parts I learned recently and one little project(jigsaw game) 
 - Still have to practise the parts below for the basic coding,
-  which will be completed in 2 weeks.
+  which will be completed in 1-2 weeks.
 >aaaa
 >bbb
 >cccc
